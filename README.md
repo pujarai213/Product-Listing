@@ -24,23 +24,23 @@ Well-structured folder organization following React best practices
 
 Frontend
 
-React.js – component-based UI
+   React.js – component-based UI
 
-Tailwind CSS – fast, responsive styling
+   Tailwind CSS – fast, responsive styling
 
-Axios – API requests
+   Axios – API requests
 
-React Hooks – state & lifecycle management
+   React Hooks – state & lifecycle management
 
-CSS Animations – loaders, transitions
+   CSS Animations – loaders, transitions
 
 Backend (API Source)
 
-FakeStoreAPI – used as a mock backend for products
+   FakeStoreAPI – used as a mock backend for products
 
-Provides product listings, categories, prices, ratings, and images
+   Provides product listings, categories, prices, ratings, and images
 
-Perfect for prototyping e-commerce apps without building a full backend
+   Perfect for prototyping e-commerce apps without building a full backend
 
 ---
 
