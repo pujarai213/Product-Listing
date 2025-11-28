@@ -90,11 +90,7 @@ const ProductComponent = () => {
       {/* Heading */}
       <h1
         className="text-6xl font-bold my-10 text-center"
-        style={{
-          color: "white",
-          WebkitTextStroke: "1px black",
-          textStroke: "2px black",
-        }}
+        style={{ fontFamily: "'Outfit', sans-serif" }}
       >
         Explore Products
       </h1>
