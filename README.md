@@ -1,16 +1,52 @@
-# React + Vite
+<h1 align="center">Product Listing Page</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ <b>Highlights:</b>
 
-Currently, two official plugins are available:
+ Modern React UI with responsive design
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Product listing with advanced filters (search, category, sort by price & rating)
 
-## React Compiler
+Infinite Scroll for smooth product loading
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Reusable Components for clean and maintainable code
 
-## Expanding the ESLint configuration
+API Integration using FakeStore API
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Optimized Product Grid adaptable across all screen sizes
+
+Stylish Header Banner with custom fonts & overlay text
+
+Well-structured folder organization following React best practices
+
+---
+
+<b>Tech Stack</b>
+
+Frontend
+
+React.js – component-based UI
+
+Tailwind CSS – fast, responsive styling
+
+Axios – API requests
+
+React Hooks – state & lifecycle management
+
+CSS Animations – loaders, transitions
+
+Backend (API Source)
+
+FakeStoreAPI – used as a mock backend for products
+
+Provides product listings, categories, prices, ratings, and images
+
+Perfect for prototyping e-commerce apps without building a full backend
+
+---
+
+Command to run code
+
+npm install
+
+npm run dev
+
